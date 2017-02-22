@@ -1,4 +1,4 @@
-Authors: Sam Mottley
+Authors: Sam Mottley and John Brown
 
 Title: Git training
 
