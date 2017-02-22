@@ -13,3 +13,6 @@ Work from john on the simulations
 
 Methodolgy:
 More text
+
+Conclusion:
+This is my conclusion of todays course
