@@ -1,6 +1,6 @@
 Authors: Sam Mottley and John Brown
 
-Title: Git training, whoops
+Title: Git training, merge fix
 
 Intro to my report.
 
